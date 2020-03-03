@@ -1,0 +1,39 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3E2E-5AD6
+
+ Directory of C:\MicrosoftAzureCertification
+
+03/03/2020  09:52 AM    <DIR>          .
+03/03/2020  09:52 AM    <DIR>          ..
+02/28/2020  04:27 PM    <DIR>          aks-dotnet-manage-kubernetes-cluster-master
+02/28/2020  06:03 PM    <DIR>          app-service-web-dotnet-get-started-master
+02/29/2020  03:29 PM    <DIR>          AppModelv2-WebApp-OpenIDConnect-DotNet-master
+12/28/2019  12:09 PM    <DIR>          ARMDeploy-master
+10/28/2019  09:46 PM    <DIR>          AZ-103 PDF SIM
+02/25/2020  06:20 PM        42,704,966 AZ-103 PDF SIM.zip
+02/27/2020  09:08 AM    <DIR>          azure-batch-samples-master
+02/27/2020  02:10 PM    <DIR>          batch-dotnet-manage-batch-accounts-master
+03/03/2020  09:52 AM                16 do.bat
+06/15/2017  07:02 PM    <DIR>          dotnet-cosmosdb-quickstart-master
+10/15/2019  04:38 PM    <DIR>          durablefunctions-apiscraping-dotnet-master
+02/28/2020  06:34 PM    <DIR>          event-hubs-dotnet-user-notifications-master
+02/21/2020  08:33 AM           194,939 exam-az-103-microsoft-azure-administrator-skills-measured.pdf
+03/02/2020  08:56 PM            98,542 exam-az-203-developing-solutions-for-microsoft-azure-skills-measured.pdf
+02/25/2020  05:46 PM            72,921 exam-az-204-developing-solutions-for-microsoft-azure-skills-measured.pdf
+03/03/2020  10:54 AM                 0 file.txt
+02/22/2020  11:13 PM               152 first.json
+02/29/2020  08:13 AM            67,132 microsoft-certified-azure-developer-associate-skills-measured.pdf
+03/03/2020  09:51 AM                 0 New Text Document (2).txt
+03/03/2020  09:51 AM                 0 New Text Document (3).txt
+03/03/2020  09:50 AM                 0 New Text Document.txt
+03/02/2020  12:11 PM        44,976,806 NewAz-ModuleReference.pdf
+02/29/2020  10:19 AM           939,044 original.pdf
+02/22/2020  11:01 PM               336 parameters.json
+03/02/2020  01:51 AM    <DIR>          storage-blob-dotnet-getting-started-master
+03/02/2020  03:58 PM    <DIR>          storage-queue-dotnet-getting-started-master
+11/15/2017  11:18 AM    <DIR>          storage-table-dotnet-getting-started-master
+02/23/2020  04:57 AM             6,314 template.json
+03/02/2020  12:22 PM             1,460 Test_Practise.txt
+03/02/2020  09:53 PM               925 Udemy AzureTodo.txt
+              17 File(s)     89,063,553 bytes
+              15 Dir(s)  3,834,950,320,128 bytes free
